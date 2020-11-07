@@ -1,3 +1,5 @@
 # MiniBrokerageSystem
-
-<img src="UML DIAG.png">
+ 
+ ## UML DIAGRAM
+ 
+ ![uml diag]("UML DIAG.png") 
