@@ -2,4 +2,4 @@
  
  ## UML DIAGRAM
  
- ![uml diag](UML DIAG.png)
+ ![uml diag](uml.png)
